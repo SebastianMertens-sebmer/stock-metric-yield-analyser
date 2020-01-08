@@ -1,0 +1,372 @@
+Aktie,WKN,Index,Branche,RK,
+Adidas *,A1EWWW,DAX,Konsumgüter,3,
+Allianz SE *,840400,DAX,Finanzsektor,3,
+BASF SE *,BASF11,DAX,Chemie / Pharma / Gesundheit,3,
+Bayer AG *,BAY001,DAX,Chemie / Pharma / Gesundheit,3,
+Beiersdorf AG,520000,DAX,Konsumgüter,3,
+BMW AG St,519000,DAX,Kraftfahrzeugindustie,3,
+Continental AG,543900,DAX,Kraftfahrzeugindustie,3,
+Covestro,606214,DAX,Kunststoffe,4,
+Daimler AG *,710000,DAX,Kraftfahrzeugindustrie,3,
+Deutsche Bank AG *,514000,DAX,Finanzsektor,3,
+Deutsche Börse AG *,581005,DAX,Finanzsektor,3,
+Deutsche Lufthansa AG *,823212,DAX,Transport / Verkehrssektor,3,
+Deutsche Post AG *,555200,DAX,Transport / Verkehrssektor,3,
+Deutsche Telekom AG *,555750,DAX,Telekomunikation,3,
+E.ON AG NA *,ENAG99,DAX,Versorger,3,
+Fresenius Medical Care AG & Co. KGaA St,578580,DAX,Chemie / Pharma / Gesundheit,3,
+Fresenius SE & Co. KGaA,578560,DAX,Chemie / Pharma / Gesundheit,3,
+HeidelbergCement AG,604700,DAX,Industrie,3,
+Henkel AG & Co. KGaA Vz,604843,DAX,Chemie / Pharma / Gesundheit,3,
+Infineon Technologies AG *,623100,DAX,Technologie,3,
+Linde PLC,A2DSYC,DAX,Chemie,3,
+Merck KGaA,659990,DAX,Chemie / Pharma / Gesundheit,3,
+MTU Aero Engines*,A0D9PT,DAX,Raumfahrtindustrie,4,
+Münchener Rück AG *,843002,DAX,Finanzsektor,3,
+RWE AG St,703712,DAX,Versorger,3,
+SAP AG,716460,DAX,Software,3,
+Siemens AG *,723610,DAX,Technologie,3,
+Volkswagen AG Vz,766403,DAX,Kraftfahrzeugindustrie,3,
+Vonovia *,A1ML7J,DAX,Immobilien,3,
+Wirecard,747206,DAX,Internetkommerz,3,
+Activision Blizzard,A0Q4K4,NASDAQ-100,Standardsoftware,5,
+Adobe Systems,871981,NASDAQ-100,Standardsoftware,4,
+Alexion Pharmaceuticals,899527,NASDAQ-100,Biotechnologie,4,
+Align Technology,590375,NASDAQ-100,Medizinische Geräte,5,
+Alphabet Inc,A14Y6H,NASDAQ-100,Internetkommerz,4,
+Alphabet Inc. A,A14Y6F,NASDAQ-100,Internetkommerz,4,
+Amazon,906866,NASDAQ-100,Internetkommerz,4,
+American Airlines Group,A1W97M,NASDAQ-100,Fluggesellschaften,5,
+AMD Advanced Micor Devices,863186,NASDAQ-100,Halbleiterindustrie,5,
+Amgen,867900,NASDAQ-100,Medizinische Geräte,4,
+Analog Devices,862485,NASDAQ-100,Halbleiterindustrie,4,
+Apple,865985,NASDAQ-100,Computer-Hardware,4,
+Applied Materials,865177,NASDAQ-100,Halbleiterindustrie,4,
+ASML Holding,A1J85V,NASDAQ-100,Halbleiterindustrie,5,
+Autodesk,869964,NASDAQ-100,Standardsoftware,4,
+Automatic Data Processing,850347,NASDAQ-100,Netzwerktechnik und -systeme,4,
+Baiducom,A0F5DE,NASDAQ-100,Internetservice,5,
+Biogen,789617,NASDAQ-100,Biotechnologie,4,
+Booking Holdings Inc.,A2JEXP,NASDAQ-100,Touristik und Freizeit,5,
+Biomarin Pharmaceutical,924801,NASDAQ-100,Pharma,5,
+Broadcom 1,A2JG9Z,NASDAQ-100,Elektrotechnologie,5,
+Cadence Design,873567,NASDAQ-100,Standardsoftware,5,
+Celgene,881244,NASDAQ-100,Biotechnologie,4,
+Cerner,892807,NASDAQ-100,Spezialsoftware,4,
+Charter Communications,A2AJX9,NASDAQ-100,Telekommunikationsausrüster,5,
+Check Point Software Technologies,901638,NASDAQ-100,Standardsoftware,4,
+Cintas,880205,NASDAQ-100,Bekleidungsartikel,4,
+Cisco Systems,878841,NASDAQ-100,Netzwerktechnik und -systeme,4,
+Citrix Systems,898407,NASDAQ-100,Standardsoftware,4,
+Cognizant Technology Solutions,915272,NASDAQ-100,Softwareservice / -dienstleistung,4,
+Comcast,157484,NASDAQ-100,Telekommunikationsausrüster,4,
+Costco Wholesale,888351,NASDAQ-100,Einzelhandel,4,
+CSX,865857,NASDAQ-100,Eisenbahn und Straße,4,
+Ctripcom International,A0BK6U,NASDAQ-100,Touristik und Freizeit,5,
+Dollar Tree,A0NFQC,NASDAQ-100,Kaufhäuser,4,
+Ebay Inc.,916529,NASDAQ-100,Internetkommerz,4,
+Electronic Arts,878372,NASDAQ-100,Standardsoftware,4,
+Expedia,A1JRLJ,NASDAQ-100,Internetkommerz,4,
+facebook,A1JWVX,NASDAQ-100,Internetservice,4,
+Fastenal,887891,NASDAQ-100,Baumaterial und -komponenten,4,
+Fiserv,881793,NASDAQ-100,Softwareservice / -dienstleistung,4,
+FOX Corp A,A2PF3K,NASDAQ-100,Broadcasting (TV und Radio),5,
+FOX Corp B,A2PF3T,NASDAQ-100,Broadcasting (TV und Radio),5,
+Gilead Sciences,885823,NASDAQ-100,Pharma,4,
+Hasbro,859888,NASDAQ-100,Sonstige Konsumgüter,4,
+Henry Schein,897961,NASDAQ-100,Medizinische Geräte,5,
+IDEXX Laboratories,888210,NASDAQ-100,Biotechnologie,5,
+Illumina,927079,NASDAQ-100,Medizinische Geräte,4,
+Incyte,896133,NASDAQ-100,Pharma,5,
+Intel,855681,NASDAQ-100,,Halbleiterindustrie,4
+Intuit,886053,NASDAQ-100,,Standardsoftware,4
+Intuitive Surgical,888024,NASDAQ-100,,Medizinische Geräte,4
+JB Hunt Transportation Services,885365,NASDAQ-100,,Dienstleistungen,5
+JDcom,A112ST,NASDAQ-100,,Internetkommerz,5
+KLA-Tencor,865884,NASDAQ-100,,Sonstige Technologie,4
+Lam Research,869686,NASDAQ-100,,Internetkommerz,4
+Liberty Global A,A1W0FL,NASDAQ-100,,Medien/Breitband,5
+Liberty Global,A1W0FN,NASDAQ-100,,Medien/Breitband,5
+Lululemon Athletica Inc.,A0MXBY,NASDAQ-100,,Sportartikel,5
+Marriott International,913070,NASDAQ-100,,Touristik und Freizeit,4
+Maxim Integrated Products,876158,NASDAQ-100,,Elektrotechnologie,5
+Mercadolibre,A0MYNP,NASDAQ-100,,E-Commerce,5
+Microchip Technology,886105,NASDAQ-100,,Halbleiterindustrie,4
+Micron Technology,869020,NASDAQ-100,,Halbleiterindustrie,4
+Microsoft,870747,NASDAQ-100,,Standardsoftware,4
+Mondelez,A1J4U0,NASDAQ-100,,Nahrungsmittel,4
+Monster Beverage,A14U5Z,NASDAQ-100,,Getränke / Tabak,4
+Mylan NV,A14NYH,NASDAQ-100,,Pharma,4
+Netapp Inc.,A0NHKR,NASDAQ-100,,Computer-Hardware,4
+Netease,501822,NASDAQ-100,,Internetkommerz,5
+Netflix,552484,NASDAQ-100,,Entertainment / Dienstleistungen,4
+NortonLifeLock,A2PUXE,NASDAQ-100,,Standardsoftware,5
+NVIDIA,918422,NASDAQ-100,,Halbleiterindustrie,4
+NXP Semiconductors,A1C5WJ,NASDAQ-100,,Halbleiterindustrie,4
+O Reilly Automotive,A1H5JY,NASDAQ-100,,Einzelhandel,4
+Paccar,861114,NASDAQ-100,,Automobilproduktion,4
+Paychex,868284,NASDAQ-100,,Sonstige Branchen,4
+PayPal,A14R7U,NASDAQ-100,,Finanzdienstleistungen,5
+Pepsico,851995,NASDAQ-100,,Getränke / Tabak,4
+QUALCOMM,883121,NASDAQ-100,,IT-Dienstleistungen,4
+Regeneron Pharmaceuticals,881535,NASDAQ-100,,Biotechnologie,4
+Ross Stores,870053,NASDAQ-100,,Sonstige Handel,4
+Sirius XM,A1W8XE,NASDAQ-100,,Broadcasting (TV und Radio),5
+Skyworks Solutions,857760,NASDAQ-100,,Halbleiterindustrie,4
+Starbucks,884437,NASDAQ-100,,Restaurants und Foodvertrieb,4
+Synopsys,883703,NASDAQ-100,,Halbleiterindustrie,5
+Take 2,914508,NASDAQ-100,,Compterspieleentwickler,4
+Tesla,A1CX3T,NASDAQ-100,,Automobilproduktion,4
+Texas Instruments,852654,NASDAQ-100,,Halbleiterindustrie,4
+The Kraft Heinz Company,A14TU4,NASDAQ-100,,Nahrungsmittel,5
+T-Mobile US,A1T7LU,NASDAQ-100,,Telekomdienstleister,5
+Ulta Salon CosmeticsFragrance,A0M240,NASDAQ-100,,Drogerie und Kosmetikgüter,5
+United Airlines Holdings,A1C6TV,NASDAQ-100,,Fluggesellschaften,5
+Verisign,911090,NASDAQ-100,,Internetservice,4
+Verisk Analytic a,A0YA2M,NASDAQ-100,,Finanzdienstleistungen,5
+Vertex Pharmaceuticals,882807,NASDAQ-100,,Pharma,5
+Walgreens Boots Alliance,A12HJF,NASDAQ-100,,Drogerie und Kosmetikgüter,5
+Western Digital,863060,NASDAQ-100,,Computer-Hardware,4
+Willis Towers Watson,A2AC3K,NASDAQ-100,,Finanzdienstleistungen,5
+Workday A,A1J39P,NASDAQ-100,,Software / Recruiting,5
+Wynn Resorts,663244,NASDAQ-100,,Entertainment / Dienstleistungen,4
+Xcell Energy,855009,NASDAQ-100,,Energieversorger,4
+Xilinx,880135,NASDAQ-100,,Halbleiterindustrie,4
+3M Co.,851745,STOXX Global,150,Konsumgüter,4
+Abbott Laboratories,850103,STOXX Global,150,Medizinische Geräte,4
+ABBVIE,A1J84E,STOXX Global,150,Chemie / Pharma / Gesundheit,4
+Adobe,871981,STOXX Global,150,Standardsoftware,4
+Accenture Plc,A0YAQA,STOXX Global,150,IT-Dienstleistungen,4
+AIA GROUP,A1C7F3,STOXX Global,150,Versicherungen,4
+Airbus,938914,STOXX Global,150,Luft- & Raumfahrt,3
+AIR LIQUIDE **,850133,STOXX Global,150,Rohstoffe,3
+ALLIANZ *,840400,STOXX Global,150,Finanzsektor,3
+Alphabet Inc. C,A14Y6H,STOXX Global,150,Internetkommerz,4
+Amazon.com Inc.,906866,STOXX Global,150,Internetkommerz,4
+Amgen Inc.,867900,STOXX Global,150,Gesundheitswesen,4
+Anheuser-Busch,A2ASUV,STOXX Global,150,Nahrungsmittel,4
+Apple Inc.,865985,STOXX Global,150,Computer-Hardware,4
+ASML Holding,A1J4U4,STOXX Global,150,Elektrotechnologie,3
+Astellas Pharma Inc.,856273,STOXX Global,150,Chemie / Pharma / Gesundheit,4
+ASTRAZENECA,886455,STOXX Global,150,Chemie / Pharma / Gesundheit,4
+AT&T Inc.,A0HL9Z,STOXX Global,150,Telekommunikation,4
+Australia & New Zealand Bankin,864144,STOXX Global,150,Finanzdienstleister,4
+AXA **,855705,STOXX Global,150,Universalversicherungen,3
+Bank of America Corp.,858388,STOXX Global,150,Finanzdienstleister,4
+BASF *,BASF11,STOXX Global,150,Chemie / Pharma / Gesundheit,3
+BAYER *,BAY001,STOXX Global,150,Chemie / Pharma / Gesundheit,3
+BCO SANTANDER,858872,STOXX Global,150,Finanzdienstleister,3
+Berkshire Hathaway Inc. Cl B,A0YJQ2,STOXX Global,150,Industrie,4
+BHP Billiton Ltd.,850524,STOXX Global,150,Rohstoffe,4
+BNP PARIBAS **,887771,STOXX Global,150,Finanzsektor,3
+Boeing Co.,850471,STOXX Global,150,Luft- & Raumfahrt,4
+BP,850517,STOXX Global,150,Energie und Versorger,3
+Bridgestone Corp.,857226,STOXX Global,150,Reifen,4
+BRITISH AMERICAN TOBACCO,916018,STOXX Global,150,Konsumgüter,4
+Canon Inc.,853055,STOXX Global,150,Elektrische Geräte,4
+Central Japan Railway Co.,908593,STOXX Global,150,Transport / Verkehrssektor,4
+Chevron Corp.,852552,STOXX Global,150,Energie und Versorger,4
+Cisco Systems Inc.,878841,STOXX Global,150,Netzwerktechnik und -systeme,4
+Citigroup Inc.,A1H92V,STOXX Global,150,Finanzdienstleister,4
+CK HUTCHISON HOLDINGS LIMITED,A14QAZ,STOXX Global,150,Telekommunikationsausrüster,4
+Coca-Cola Co.,850663,STOXX Global,150,Konsumgüter,4
+Comcast,157484,STOXX Global,150,Telekommunikationsausrüster,4
+Commonwealth Bank of Australia,882695,STOXX Global,150,Banken,4
+CSL Ltd.,890952,STOXX Global,150,Pharmaka,4
+DAIICHI SANKYO CORP LTD.,A0F57T,STOXX Global,150,Pharma,4
+Daikin Industry Ltd.,857771,STOXX Global,150,Klimatechnik/Chemie,4
+DAIMLER *,710000,STOXX Global,150,Kraftfahrzeugindustrie,3
+DEUTSCHE TELEKOM *,555750,STOXX Global,150,Telekomunikation,3
+DIAGEO,851247,STOXX Global,150,Konsumgüter,4
+East Japan Railway Co.,887942,STOXX Global,150,Transport / Verkehrssektor,4
+Enel,928624,STOXX Global,150,Mischkonzern,3
+ENI SPA***,897791,STOXX Global,150,Energie und Versorger,3
+Exxon Mobil Corp.,852549,STOXX Global,150,Energie und Versorger,4
+Facebook,A1JWVX,STOXX Global,150,Internetkommerz,4
+Fanuc Ltd.,863731,STOXX Global,150,Industriemaschinen,4
+Fast Retailing Co. Ltd.,891638,STOXX Global,150,Bekleidung/Textilien,4
+GLAXOSMITHKLINE,940561,STOXX Global,150,Pharma,4
+Hitachi Ltd.,853219,STOXX Global,150,Verbraucherelektronik,4
+Home Depot Inc.,866953,STOXX Global,150,Konsumgüter,4
+Honda Motor Co. Ltd.,853226,STOXX Global,150,Fahrzeugbau,4
+Hong Kong Exchanges & Clearing,A0NJY9,STOXX Global,150,Finanzdienstleister,4
+Honeywell International Inc.,870153,STOXX Global,150,Mischkonzern,4
+Hoya,856625,STOXX Global,150,Computer-Hardware,4
+HSBC,923893,STOXX Global,150,Finanzdienstleister,4
+Iberdrola,A0M46B,STOXX Global,150,Energieversorger,3
+ING GRP,A2ANV3,STOXX Global,150,Finanzdienstleister,4
+Intel Corp.,855681,STOXX Global,150,Halbleiterindustrie,4
+International Business Machine,851399,STOXX Global,150,Computer-Hardware,4
+Intesa Sanpaolo***,850605,STOXX Global,150,Banken,3
+Japan Tobacco Inc.,893151,STOXX Global,150,Getränke/Tabak,4
+Johnson & Johnson,853260,STOXX Global,150,Konsumgüter,4
+JPMorgan Chase & Co.,850628,STOXX Global,150,Finanzdienstleister,4
+Kao Corp.,857031,STOXX Global,150,Drogerie u. Kosmetikgüter,4
+KDDI Corp.,887603,STOXX Global,150,Mobile Kommunikation,4
+Keyence Corp.,874827,STOXX Global,150,Elektrotechnologie,4
+Linde Plc,A2DSYC,STOXX Global,150,Chemie,3
+Lloyds Banking Group,871784,STOXX Global,150,Finanzdienstleister,4
+L`Oreal**,853888,STOXX Global,150,Drogerie u. Kosmetikgüter,3
+LVMH MOET HENNESSY **,853292,STOXX Global,150,Konsumgüter,3
+Macquarie Group,A0M6VH,STOXX Global,150,Finanzdienstleisungen,4
+Mastercard Incorporation,A0F602,STOXX Global,150,Banken,4
+McDonald's Corp.,856958,STOXX Global,150,Konsumgüter,4
+Medtronic,A14M2J,STOXX Global,150,Medizinische Geräte,4
+Merck & Co. Inc.,A0YD8Q,STOXX Global,150,Gesundheitswesen,4
+Microsoft Corp.,870747,STOXX Global,150,Standardsoftware,4
+Mitsubishi Corp.,857124,STOXX Global,150,Industrielieferanten,4
+Mitsubishi Electric Corp.,856532,STOXX Global,150,Industriemaschinen,4
+Mitsubishi UFJ Financial Group,657892,STOXX Global,150,Banken,4
+Mitsui & Co. Ltd.,853656,STOXX Global,150,Industrielieferanten,4
+Mizuho Financial Group Inc.,200455,STOXX Global,150,Banken,4
+Murata Manufactoring,853657,STOXX Global,150,Elektroausstattung und Vertrieb,4
+National Australia Bank Ltd.,853802,STOXX Global,150,Banken,4
+National Grid Plc.,A2DQWX,STOXX Global,150,Sonstige Versorger,4
+Netflix,552484,STOXX Global,150,Entertainment/Dienstleistungen,4
+Nidec Corp,878403,STOXX Global,150,n.a.,4
+Nintendo,864009,STOXX Global,150,Unterhaltungselektronik,4
+Nippon Telegraph & Telephone C,873029,STOXX Global,150,Integrale Telekommunikation,4
+NOVO-NORDISK AS B,A1XA8R,STOXX Global,150,Pharma,4
+Nvidia Corp,918422,STOXX Global,150,Halbleiterindustrie,4
+NTT DoCoMo Inc.,916541,STOXX Global,150,Mobile Kommunikation,4
+Oracle Corp.,871460,STOXX Global,150,Technologie,4
+Oriental Land,903984,STOXX Global,150,Touristik und Freizeit,4
+Paypal Holdings Inc.,A14R7U,STOXX Global,150,Finanzdienstleistungen,4
+PepsiCo Inc.,851995,STOXX Global,150,Konsumgüter,4
+Pfizer Inc.,852009,STOXX Global,150,Gesundheitswesen,4
+Philip Morris International In,A0NDBJ,STOXX Global,150,Tabak,4
+Procter & Gamble Co.,852062,STOXX Global,150,Konsumgüter,4
+PRUDENTIAL,852069,STOXX Global,150,Versicherungen,4
+RECKITT BENCKISER GRP,A0M1W6,STOXX Global,150,Konsumgüter,4
+Recruit Holdings,A12BJJ,STOXX Global,150,Dienstleisungen,5
+RELX Plc,A0M95J,STOXX Global,150,Printmedien,4
+RIO TINTO,852147,STOXX Global,150,Rohstoffe,4
+Royal Bank of Canada,852173,STOXX Global,150,Bank,4
+ROYAL DUTCH SHELL A,A0D94M,STOXX Global,150,Energie und Versorger,3
+Safran,924781,STOXX Global,150,Luft- & Raumfahrt,3
+Salesforce.com Inc.,A0B87V,STOXX Global,150,Softwareservice-/dienstleisung,4
+SANOFI **,920657,STOXX Global,150,Gesundheitswesen,3
+SAP,716460,STOXX Global,150,Technologie,3
+SCHNEIDER ELECTRIC **,860180,STOXX Global,150,Industrie,3
+Seven & I Holdings Co. Ltd.,A0F7DY,STOXX Global,150,Warenhäuser & Versand,4
+Shin-Etsu Chemical Co. Ltd.,859118,STOXX Global,150,Spezialitäten-Chemie,4
+Shiseido Corp,854002,STOXX Global,150,Drogerie u. Kosmetikgüter,4
+SIEMENS *,723610,STOXX Global,150,Industrie,3
+Softbank Corp.,891624,STOXX Global,150,Mobile Kommunikation,4
+SONY Corp.,853687,STOXX Global,150,Unterhaltungselektronik,4
+Sumitomo Mitsui Financial Group,778924,STOXX Global,150,Banken,4
+Takeda Pharmaceutical Co. Ltd.,853849,STOXX Global,150,Pharmaka,4
+Telstra Corp. Ltd.,909947,STOXX Global,150,Integrale Telekommunikation,4
+Tokio Marine Holdings Inc.,542064,STOXX Global,150,Sachversicherungen,4
+Toronto-Dominion Bank,852684,STOXX Global,150,Finanzdienstleister,4
+TOTAL **,850727,STOXX Global,150,Energie und Versorger,3
+Toyota Motor Corp.,853510,STOXX Global,150,Fahrzeugbau,4
+Unilever N.V.,A0JMQ9,STOXX Global,150,Nahrungsmittel,3
+UNILEVER PLC,A0JNE2,STOXX Global,150,Konsumgüter,4
+Union Pacific Corp.,858144,STOXX Global,150,Industrie,4
+United Health Group,869561,STOXX Global,150,Gesundheitsdienstleistungen,4
+United Technologies Corp.,852759,STOXX Global,150,Industrie,4
+Verizon Communications Inc.,868402,STOXX Global,150,Telekommunikation,4
+Vinci,867475,STOXX Global,150,Bauhauptgewerbe,3
+VISA Inc. Cl A,A0NC7B,STOXX Global,150,Besondere Finanzdienstleister,4
+VODAFONE Group Plc,A1XA83,STOXX Global,150,Telekommunikation,4
+Wal-Mart Stores Inc.,860853,STOXX Global,150,Konsumgüter,4
+Walt Disney Co.,855686,STOXX Global,150,Konsumgüter,4
+Wells Fargo & Co.,857949,STOXX Global,150,Finanzdienstleister,4
+Wesfarmers Ltd.,876755,STOXX Global,150,Mischkonzern,4
+Westpac Banking Corp.,854242,STOXX Global,150,Banken,4
+Woolworths Ltd.,886853,STOXX Global,150,Handelskette,4
+Aareal Bank AG,540811,MDAX,,Banken,4
+Airbus Group SE,938914,MDAX,,Luft- und Raumfahrt,3
+alstria office REIT-AG,A0LD2U,MDAX,,Immobilien,4
+Aroundtown SA,A2DW8Z,MDAX,,Immobilien,4
+Aurubis AG,676650,MDAX,,Rohstoffe,4
+Bechtle AG,515870,MDAX,,IT,4
+Brenntag AG*,A1DAHH,MDAX,,Chemie,4
+Cancom,541910,MDAX,,IT-Dienstleistungen,4
+Carl Zeiss Meditec,531370,MDAX,,Medizintechnik,4
+Commerzbank AG,CBK100,MDAX,,Finanzsektor,3
+CompuGroup Medical,543730,MDAX,,Softwareservice,4
+CTS Eventim,547030,MDAX,,Entertainment,4
+Delivery Hero AG*,A2E4K4,MDAX,,Internetkommerz,4
+Deutsche Wohnen,A0HN5C,MDAX,,Immobilien,4
+Deutsche-Pfandbriefbank,801900,MDAX,,Banken,5
+Dialog Semiconductor PLC,927200,MDAX,,Halbleiterindustrie,4
+Dürr AG,556520,MDAX,,Maschinenbau,4
+Evonik Industries AG*,EVNK01,MDAX,,Chemie,4
+Evotec AG,566480,MDAX,,Pharmazie,4
+Fraport AG,577330,MDAX,Betreiberges. D. Flughafens Frankfurt,,4
+freenet AG,A0Z2ZZ,MDAX,,Telekommunikation,4
+Fuchs Petrolub SE,579043,MDAX,,Chemie,4
+GEA Group AG,660200,MDAX,,Maschinenbau,4
+Gerresheimer AG,A0LD6E,MDAX,,Medizinische Geräte,4
+Grand City Properties S.A.,A1JXCV,MDAX,,Finanzdienstleistungen,5
+Grenke,A161N3,MDAX,,IT-Dienstleistungen,4
+Hannover Rück SE*,840221,MDAX,,Versicherungen,4
+Hella KGAA Hueck & Co.,A13SX2,MDAX,,Automobilzulieferer,4
+HOCHTIEF AG,607000,MDAX,,Bauhauptgewerbe,4
+HUGO BOSS AG*,A1PHFF,MDAX,,Bekleidung,4
+K+S Aktiengesellschaft*,KSAG88,MDAX,,Chemie / Pharma / Gesundheit,3
+Kion Group AG,KGX888,MDAX,,Spezialmaschinenbau,4
+Knorr-Bremse,KBX100,MDAX,,Kraftfahrzeugindustrie,4
+LANXESS AG,547040,MDAX,,Chemie,3
+LEG Immobilien AG*,LEG111,MDAX,,Immobilien,4
+Metro Wholesale & Food Specialist AG,BFB001,MDAX,,Holdings,4
+MorphoSys AG,663200,MDAX,,Biotechnologie,4
+Nemetschek SE,645290,MDAX,,Software,4
+OSRAM Licht AG*,LED400,MDAX,"Lichthersteller, sonstige Technologie",,4
+ProSiebenSat.1 Media*,PSM777,MDAX,,TV und Radio,3
+Puma SE,696960,MDAX,,Sportartikel,4
+QIAGEN NV,A2DKCH,MDAX,,Biotechnologie,4
+Rational,701080,MDAX,,Elektrotechnologie,4
+Rheinmetall AG,703000,MDAX,,Maschinenbau,4
+Rocket Internet SE,A12UKK,MDAX,,Holdings,5
+RTL Group S.A.,861149,MDAX,,TV und Radio Luxemburg,4
+Sartorius AG VZO,716563,MDAX,,Pharmazie,4
+Scout 24*,A12DM8,MDAX,,Internetservice,4
+Siemens Healthineers AG,SHL100,MDAX,,Medizinische Geräte,4
+Siltronic AG*,WAF300,MDAX,,Halbleiterindustrie,4
+Software AG,A2GS40,MDAX,,Software,4
+Symrise AG,SYM999,MDAX,Chemie,4,
+TAG Immobilien AG,830350,MDAX,Immobilien,4,
+Teamviewer AG,A2YN90,MDAX,Standardsoftware,5,
+Telefónica Deutschland Holding AG,A1J5RX,MDAX,Telekommunikation,4,
+Thyssen-Krupp,750000,MDAX,Industrie,3,
+Uniper*,UNSE01,MDAX,Versorger,3,
+United Internet AG,508903,MDAX,Internetprovider,4,
+Varta AG,A0TGJ5,MDAX,Elektrotechnologie,5,
+Zalando,ZAL111,MDAX,Internetkommerz,4,
+Alibaba Group Holding,A117ME,,Internetkommerz,5,
+Aixtron SE*,A0WMPJ,,Halbleiterindustire,4,
+Aurora Cannabis,A12GS7,,Gesundheitsdienstleisungen,5,
+Tencent Hldgs,A1138D,,Internetservice,4,
+NEL ASA,A0B733,,Sonstige Energie,5,
+Gazprom,903276,,Öl und Gas,5,
+Aurelius,A0JK2A,,Sonstige Branchen,5,
+TUI AG*,TUAG00,,Holdings,3,
+Barrick Gold Corp,870450,,Edelmetalle,4,
+RIB Software AG*,A0Z2XN,,Spezialsoftware,4,
+BYD Co. Ltd.,A0M4W9,,Eletktrotechnik,5,
+Geely Automobile,A0CACX,,Holdings,4,
+Porsche,PAH003,,Holdings,3,
+Beyond Meat Inc.,A2N7XQ,,Nahrungsmittel,5,
+Sixt SE VZ,723133,,Autovermietungen,5,
+Blackrock,928193,,Finanzdienstleistungen,4,
+Danaher,866197,,Sonstige Technologie,4,
+Illinois Tool Works,861219,,Spezialmaschinenbau,4,
+Nike,866993,,Sportartikel,3,
+Samsung,881823,,Unterhaltungselektronik,5,
+Stryker,864952,,Pharma,3,
+Uber Technologies,A2PHHG,,IT-Dienstleistungen,5,
+VF Corp,857621,,Bekleidungsartikel,4,
+Waste Management,893579,,Entsorgung / Umwelttechnologie,4,
+Altria Group Inc.,200417,,Getränke / Tabak,4,
+Imperial Brands Plc.,903000,,Getränke / Tabak,4,
+LTC Properties,884625,,Immobilien,5,
+Omega Healthcare,890454,,Immobilien,4,
+W.P. Carey,A1J5SB,,Immobilien,5,
+Welltower,A1409D,,Immobilien,4,
+Realty Income,899744,,Immobilien,4,
+American Tower,A1JRLA,,Immobilien,4,
+Public Storage,867609,,Immobilien,4,
+Digital Realty Trust,A0DLFT,,Netzwerktechnik und -systeme,4,
