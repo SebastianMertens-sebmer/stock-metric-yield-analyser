@@ -25,6 +25,7 @@ c = False
 csvname = "aktien.csv"
 
 def load_cli():
+    return True
     if c is True and click.confirm(
         "DO YOU NEED A GRAPHICAL INPUT FOR SELECTING THE CSV FILE?", default=True
     ):
